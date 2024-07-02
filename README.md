@@ -1,4 +1,4 @@
-## EVMBlockFetcher
+## EVM Block Event Fetcher
 This module is developed to monitor all blockchain transactions when the game interacts within the EVM (Ethereum Virtual Machine) environment especially SILICON NETWORK(https://docs.silicon.network).<BR> 
 It ensures that every transaction on the blockchain side is tracked, providing comprehensive oversight and facilitating seamless integration between the game and the blockchain.<BR> 
 <BR> 
