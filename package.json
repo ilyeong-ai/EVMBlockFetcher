@@ -1,0 +1,31 @@
+{
+  "name": "evm_block_fetcher",
+  "version": "0.0.1",
+  "description": "EVM Block Fetcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyeong-ai/EVMBlockFetcher.git"
+  },
+  "keywords": [
+    "EVM",
+    "Block",
+    "Fetcher"
+  ],
+  "author": "Brian Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilyeong-ai/EVMBlockFetcher/issues"
+  },
+  "homepage": "https://github.com/ilyeong-ai/EVMBlockFetcher#readme", 
+  "dependencies": {
+    "ethers": "6.13.1",
+    "winston": "3.13.0",
+    "mysql2": "3.10.2",
+    "dotenv": "16.4.5",
+    "ethers": "6.13.1"
+  }
+}
